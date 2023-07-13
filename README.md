@@ -2,13 +2,6 @@
 
 **Project Title:** Disaster-Data-Hub
 
-**Group Members:**
-
-Govind Rahul Mathamsetti, 
-Sawani Ingale, 
-Justin Ar, 
-Vineeth Avula
-
 **Objective:** The project aims to create informative data visualizations that show the frequency and impact of natural disasters in different countries using a dataset from 2001 to 2021. The objectives include data cleaning, pattern, and trend detection, and producing educational visuals. Deliverables could be a dashboard or website, a report summarizing results, a preprocessed dataset, and educational visualizations. Challenges include inconsistent or inaccurate data, language barriers, and varied definitions of natural disasters.
 
 **Uses of this Visualization:** In this project, visualization is used to process and analyze a dataset on natural disasters, unearth insights, and display them in an understandable and concise way. The information can be communicated in a way that is simple to understand and act upon by using visualization techniques, which can also be used to highlight important facts, identify patterns, and identify trends. The end result is to create educational and impactful visualizations that can be used to enlighten stakeholders and the general public about the frequency and effects of natural disasters.
