@@ -1,0 +1,7 @@
+pandas
+altair
+streamlit
+plotly
+matplotlib
+statsmodels
+
