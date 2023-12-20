@@ -1,10 +1,37 @@
 # Disaster Data Hub
 
-**Project Title:** Disaster-Data-Hub
+## Overview
 
-**Objective:** The project aims to create informative data visualizations that show the frequency and impact of natural disasters in different countries using a dataset from 2001 to 2021. The objectives include data cleaning, pattern, and trend detection, and producing educational visuals. Deliverables could be a dashboard or website, a report summarizing results, a preprocessed dataset, and educational visualizations. Challenges include inconsistent or inaccurate data, language barriers, and varied definitions of natural disasters.
+The Disaster Data Hub is a Streamlit web application that offers a comprehensive analysis of disaster data from around the world. Utilizing interactive visualizations, the application provides insights into the frequency, distribution, and types of natural disasters. It's designed to help researchers, policymakers, and the public understand the impact of disasters and identify patterns and trends.
 
-**Uses of this Visualization:** In this project, visualization is used to process and analyze a dataset on natural disasters, unearth insights, and display them in an understandable and concise way. The information can be communicated in a way that is simple to understand and act upon by using visualization techniques, which can also be used to highlight important facts, identify patterns, and identify trends. The end result is to create educational and impactful visualizations that can be used to enlighten stakeholders and the general public about the frequency and effects of natural disasters.
+## Key Features
+
+- **Country-Specific Disaster Data**: View total disaster occurrences for a selected country.
+- **Trends Over Time**: Analyze the trend of disaster occurrences over the past two decades.
+- **Disaster Distribution**: Explore the distribution of various disaster types across all countries for a specific year.
+- **Interactive Maps**: Visualize the geographical distribution of disasters with interactive choropleth maps.
+- **Predictive Modeling**: Forecast the probability of future disasters in a specific country and disaster type using ARIMA models.
+- **Comparative Analysis**: Compare disaster data across multiple countries.
+- **Data Export**: Ability to view and export original and cleaned datasets for external analysis.
+
+## Insights
+
+- Visualize how disaster trends have evolved over time.
+- Understand the geographical spread and impact of different disaster types.
+- Predict future occurrences and prepare for potential disasters in specific regions.
+
+## Technology Stack
+
+- **Streamlit**: For creating a fast, user-friendly web application.
+- **Pandas**: To manage and manipulate large datasets efficiently.
+- **Altair**: For declarative statistical visualizations that allow for interactive exploration.
+- **Plotly**: For advanced interactive graphing capabilities.
+- **Matplotlib**: A plotting library for creating static, animated, and interactive visualizations.
+- **Statsmodels**: To implement the ARIMA model for statistical analysis and prediction.
+
+## Installation
+
+To set up the Disaster Data Hub, ensure you have Python installed, then run the following commands:
 
 **Steps to run the project:**
 
